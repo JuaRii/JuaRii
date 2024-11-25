@@ -9,13 +9,18 @@
   </a>
 </h1>
 <br>
-<br>
 
 ## About Me :
 
 - 🎓 Studying for Universitary Dev Web in [Facultad Ciencias Exactas](https://exactas.unsj.edu.ar/) 
 - 🏡 Lives in **San Juan, Argentina**
 - ⚡ **Fun Facts** : 🍕 🎮 🎥 🎵 
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+[![My Skills](https://skillicons.dev/icons?i=htlm,css,c,boostrap,discord,notion,ps,vscode&theme=dark&perline=5)](https://skillicons.dev)
 
 <br>
 
@@ -34,3 +39,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuaRii&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaRii&theme=dracula)](https://github.com/)
 
 <br>
+
