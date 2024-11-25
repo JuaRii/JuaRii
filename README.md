@@ -34,9 +34,9 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/jridao_)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/jridao_/)
-[<img src="https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](https://www.instagram.com/jridao_/)
+[<img src="https://img.shields.io/badge/-twitter-%25?style=for-the-badge&logo=x&logoColor=white&labelColor=gray&color=black" />](https://x.com/jridao_)
+[<img src="https://img.shields.io/badge/-Mail-%25?style=for-the-badge&logo=gmail&logoColor=white&labelColor=gray&color=black" />](https://www.instagram.com/jridao_/)
+[<img src="https://img.shields.io/badge/-instagram-%25?style=for-the-badge&logo=instagram&logoColor=white&labelColor=gray&color=black" />](https://www.instagram.com/jridao_/)
 
 </p>
 
