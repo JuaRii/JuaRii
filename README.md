@@ -22,11 +22,11 @@
 
 #### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,bootstrap&theme=dark&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=html,css,c,bootstrap&theme=dark&perline=5)
 
 #### Apps:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,notion,ps,vscode&theme=dark&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=discord,notion,ps,vscode&theme=dark&perline=5)
 
 <br>
 
@@ -43,13 +43,6 @@
 
 ## GitHub Stats 📈 :
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaRii&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="JuaRii's github stats" />
-</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaRii&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaRii&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="JuaRii's github stats" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaRii&layout=compact&theme=dracula&hide_border=true" /></a> 
 | ------------- | ------------- |
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuaRii&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaRii&theme=dracula)](https://github.com/)
-
-<br>
 
