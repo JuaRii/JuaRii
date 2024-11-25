@@ -20,19 +20,32 @@
 
 ## What I am Good at 🧑‍💻 :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,bootstrap,discord,notion,ps,vscode&theme=dark&perline=5)](https://skillicons.dev)
+#### Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,bootstrap&theme=dark&perline=5)]
+
+#### Apps:
+
+[![My Skills](https://skillicons.dev/icons?i=discord,notion,ps,vscode&theme=dark&perline=5)]
 
 <br>
 
 ## Connect with me 🧉 :
 
 <br>
+<p align = "center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jridao_/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jridao_)[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juaniridao13@gmail.com)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/jridao_)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/jridao_/)
+[<img src="https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](https://www.instagram.com/jridao_/)
 
-<br>
+</p>
 
 ## GitHub Stats 📈 :
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuaRii&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="JuaRii's github stats" />
+</a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaRii&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
 
