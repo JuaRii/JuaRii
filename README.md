@@ -12,7 +12,7 @@
 
 ## About Me :
 
-- 🎓 Studying for Universitary Dev Web in [Facultad Ciencias Exactas](https://exactas.unsj.edu.ar/) 
+- 🎓 Studying for **Universitary Dev Web** in [Facultad Ciencias Exactas](https://exactas.unsj.edu.ar/) 
 - 🏡 Lives in **San Juan, Argentina**
 - ⚡ **Fun Facts** : 🍕 🎮 🎥 🎵 
 
