@@ -20,7 +20,7 @@
 
 ## What I am Good at 🧑‍💻 :
 
-[![My Skills](https://skillicons.dev/icons?i=htlm,css,c,boostrap,discord,notion,ps,vscode&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,bootstrap,discord,notion,ps,vscode&theme=dark&perline=5)](https://skillicons.dev)
 
 <br>
 
