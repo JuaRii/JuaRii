@@ -32,7 +32,6 @@
 
 ## Connect with me 🧉 :
 
-<br>
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/jridao_)
